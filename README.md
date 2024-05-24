@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **REACT, PHP**
 
-- 📝 I regularly write blog on [apnaonlinenews](apnaonlinenews.blogspot.com)
+- 📝 I regularly write blog on [apnaonlinenews](https://apnaonlinenews.blogspot.com/)
 
 - 📫 How to reach me **rajaniaditya2003@gmail.com**
 
