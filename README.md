@@ -1,4 +1,4 @@
-![logo](https://github.com/rajaniaditya/rajaniaditya/blob/main/BG.png)
+![logo](https://github.com/rajaniaditya/rajaniaditya/blob/main/BG3.png)
 
 
 <h1 align="center">Hi 👋, I'm Aditya Rajani</h1>
